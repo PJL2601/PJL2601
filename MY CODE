@@ -1,0 +1,52 @@
+using Exam_Prac;
+using System;
+
+namespace _420AP1_Project_PreExam
+{
+    class Program
+    {
+        /*static void Main(string[] args)
+        {
+            Student[] students = new Student[5];
+
+            students[0] = new Student(12345, "John", "Doe", 2018);
+            students[1] = new Student(67890, "Jane", "Smith", 2020);
+            students[2] = new Student(34567, "Bob", "Johnson", 2019);
+            students[3] = new Student(90123, "Alice", "Williams", 2021);
+            students[4] = new Student(45678, "Mike", "Davis", 2017);
+
+            DisplayCollection(students);
+
+            // Sort the students
+            BubbleSort(students);
+
+            DisplayCollection(students);
+        }
+
+        static void DisplayCollection(Student[] students)
+        {
+            foreach (Student student in students)
+            {
+                Console.WriteLine(student.AsString());
+            }
+        }
+
+        static void BubbleSort(Student[] students)
+        {
+            for (int i = 0; i < students.Length - 1; i++)
+            {
+                for (int j = 0; j < students.Length - i - 1; j++)
+                {
+                    if (students[j].StudentNumber > students[j + 1].StudentNumber)
+                    {
+                        Student temp = students[j];
+                        students[j] = students[j + 1];
+                        students[j + 1] = temp;
+                    }
+                }
+            }
+        }
+    */
+    }
+
+}
